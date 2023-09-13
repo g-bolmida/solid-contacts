@@ -1,11 +1,7 @@
-# Nextjs + Base Web + TypeScript
+# Solid-Contacts
 
-This is an opinionated scaffold of Next.js and Base Web. It comes with:
+Just a demo app using Soukai w/ Soukai-Solid - https://soukai.js.org/guide/
 
-- Nextjs
-- Base Web
-- Styletron
-- Vitest
-- Eslint
-- Prettier
-- TypeScript
+Yes, it's all on one file... deal with it 😎
+
+Note: This is not a real app, just learning the ins and outs of Solid
